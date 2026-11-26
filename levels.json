@@ -2,15 +2,15 @@
   "sample": false,
   "session": "newyork",
   "session_label": "New York session",
-  "analyzed_at": "2026-11-26T21:48:41+03:00",
-  "analyzed_at_utc": "2026-11-26T18:48:41+00:00",
+  "analyzed_at": "2026-11-27T02:14:05+03:00",
+  "analyzed_at_utc": "2026-11-26T23:14:05+00:00",
   "spot_source": "PAXGUSDT",
   "ratio_basis": "gold at GLD close",
   "gld_ratio": 10.913,
   "gld_spot": 327.43,
-  "xauusd_spot_at_analysis": 3562.68,
+  "xauusd_spot_at_analysis": 3560.29,
   "atm_iv": 0.3721,
-  "expected_move_1sd": 83.5,
+  "expected_move_1sd": 83.45,
   "call_wall": {
     "price": 3601.3,
     "open_interest": 6617,
@@ -25,19 +25,19 @@
   "resistances": [
     {
       "price": 3601.3,
-      "score": 95.2,
+      "score": 95.4,
       "open_interest": 6617,
       "gex": 19323324
     },
     {
       "price": 3655.86,
-      "score": 75.9,
+      "score": 75.7,
       "open_interest": 5276,
       "gex": 14714701
     },
     {
       "price": 3699.51,
-      "score": 65.0,
+      "score": 65.2,
       "open_interest": 5486,
       "gex": 11643012
     }
@@ -45,19 +45,19 @@
   "supports": [
     {
       "price": 3546.73,
-      "score": 90.2,
+      "score": 90.0,
       "open_interest": 18240,
       "gex": 72132661
     },
     {
       "price": 3492.17,
-      "score": 58.0,
+      "score": 57.8,
       "open_interest": 13008,
       "gex": 31645590
     },
     {
       "price": 3437.6,
-      "score": 41.9,
+      "score": 42.1,
       "open_interest": 10099,
       "gex": 14022079
     }
@@ -135,7 +135,7 @@
       "call_oi": 0,
       "put_oi": 35,
       "vega_exposure": 184,
-      "change_1d": -106
+      "change_1d": 0
     },
     {
       "strike": 3306.65,
@@ -145,7 +145,7 @@
       "call_oi": 0,
       "put_oi": 31,
       "vega_exposure": 186,
-      "change_1d": -98
+      "change_1d": 0
     },
     {
       "strike": 3317.56,
@@ -155,7 +155,7 @@
       "call_oi": 0,
       "put_oi": 34,
       "vega_exposure": 216,
-      "change_1d": -114
+      "change_1d": 0
     },
     {
       "strike": 3328.47,
@@ -165,7 +165,7 @@
       "call_oi": 55,
       "put_oi": 5351,
       "vega_exposure": 58594,
-      "change_1d": -10692
+      "change_1d": 0
     },
     {
       "strike": 3339.38,
@@ -175,7 +175,7 @@
       "call_oi": 0,
       "put_oi": 38,
       "vega_exposure": 260,
-      "change_1d": -144
+      "change_1d": 0
     },
     {
       "strike": 3350.3,
@@ -185,7 +185,7 @@
       "call_oi": 0,
       "put_oi": 84,
       "vega_exposure": 487,
-      "change_1d": -375
+      "change_1d": 0
     },
     {
       "strike": 3361.21,
@@ -195,7 +195,7 @@
       "call_oi": 0,
       "put_oi": 47,
       "vega_exposure": 348,
-      "change_1d": -201
+      "change_1d": 0
     },
     {
       "strike": 3372.12,
@@ -205,7 +205,7 @@
       "call_oi": 0,
       "put_oi": 71,
       "vega_exposure": 488,
-      "change_1d": -350
+      "change_1d": 0
     },
     {
       "strike": 3383.04,
@@ -215,7 +215,7 @@
       "call_oi": 203,
       "put_oi": 21555,
       "vega_exposure": 353072,
-      "change_1d": -61856
+      "change_1d": 0
     },
     {
       "strike": 3393.95,
@@ -225,7 +225,7 @@
       "call_oi": 35,
       "put_oi": 1171,
       "vega_exposure": 18405,
-      "change_1d": -4304
+      "change_1d": 0
     },
     {
       "strike": 3404.86,
@@ -235,7 +235,7 @@
       "call_oi": 13,
       "put_oi": 325,
       "vega_exposure": 3688,
-      "change_1d": -1695
+      "change_1d": 0
     },
     {
       "strike": 3415.78,
@@ -245,7 +245,7 @@
       "call_oi": 0,
       "put_oi": 706,
       "vega_exposure": 2731,
-      "change_1d": -6462
+      "change_1d": 0
     },
     {
       "strike": 3426.69,
@@ -255,7 +255,7 @@
       "call_oi": 17,
       "put_oi": 1165,
       "vega_exposure": 15237,
-      "change_1d": -5437
+      "change_1d": 0
     },
     {
       "strike": 3437.6,
@@ -265,7 +265,7 @@
       "call_oi": 388,
       "put_oi": 10099,
       "vega_exposure": 132930,
-      "change_1d": -85316
+      "change_1d": 0
     },
     {
       "strike": 3448.51,
@@ -275,7 +275,7 @@
       "call_oi": 11,
       "put_oi": 164,
       "vega_exposure": 1432,
-      "change_1d": -1820
+      "change_1d": 0
     },
     {
       "strike": 3459.43,
@@ -285,7 +285,7 @@
       "call_oi": 7,
       "put_oi": 248,
       "vega_exposure": 2923,
-      "change_1d": -2531
+      "change_1d": 0
     },
     {
       "strike": 3470.34,
@@ -295,7 +295,7 @@
       "call_oi": 17,
       "put_oi": 299,
       "vega_exposure": 5532,
-      "change_1d": -2497
+      "change_1d": 0
     },
     {
       "strike": 3481.25,
@@ -305,7 +305,7 @@
       "call_oi": 0,
       "put_oi": 445,
       "vega_exposure": 8851,
-      "change_1d": -2873
+      "change_1d": 0
     },
     {
       "strike": 3492.17,
@@ -315,7 +315,7 @@
       "call_oi": 486,
       "put_oi": 13008,
       "vega_exposure": 223325,
-      "change_1d": -159261
+      "change_1d": 0
     },
     {
       "strike": 3503.08,
@@ -325,7 +325,7 @@
       "call_oi": 108,
       "put_oi": 319,
       "vega_exposure": 5051,
-      "change_1d": -6550
+      "change_1d": 0
     },
     {
       "strike": 3513.99,
@@ -335,7 +335,7 @@
       "call_oi": 60,
       "put_oi": 906,
       "vega_exposure": 12923,
-      "change_1d": -9933
+      "change_1d": 0
     },
     {
       "strike": 3524.91,
@@ -345,7 +345,7 @@
       "call_oi": 167,
       "put_oi": 420,
       "vega_exposure": 8497,
-      "change_1d": -6043
+      "change_1d": 0
     },
     {
       "strike": 3535.82,
@@ -355,7 +355,7 @@
       "call_oi": 25,
       "put_oi": 1239,
       "vega_exposure": 18136,
-      "change_1d": -15549
+      "change_1d": 0
     },
     {
       "strike": 3546.73,
@@ -365,7 +365,7 @@
       "call_oi": 6325,
       "put_oi": 18240,
       "vega_exposure": 454148,
-      "change_1d": -120449
+      "change_1d": 0
     },
     {
       "strike": 3557.64,
@@ -375,7 +375,7 @@
       "call_oi": 225,
       "put_oi": 1097,
       "vega_exposure": 24419,
-      "change_1d": -4278
+      "change_1d": 0
     },
     {
       "strike": 3568.56,
@@ -385,7 +385,7 @@
       "call_oi": 1433,
       "put_oi": 374,
       "vega_exposure": 37453,
-      "change_1d": -114
+      "change_1d": 0
     },
     {
       "strike": 3579.47,
@@ -395,7 +395,7 @@
       "call_oi": 336,
       "put_oi": 1358,
       "vega_exposure": 25439,
-      "change_1d": 1981
+      "change_1d": 0
     },
     {
       "strike": 3590.38,
@@ -405,7 +405,7 @@
       "call_oi": 607,
       "put_oi": 4888,
       "vega_exposure": 48270,
-      "change_1d": 34347
+      "change_1d": 0
     },
     {
       "strike": 3601.3,
@@ -415,7 +415,7 @@
       "call_oi": 6617,
       "put_oi": 12594,
       "vega_exposure": 421771,
-      "change_1d": 14643
+      "change_1d": 0
     },
     {
       "strike": 3612.21,
@@ -425,7 +425,7 @@
       "call_oi": 295,
       "put_oi": 818,
       "vega_exposure": 15192,
-      "change_1d": 4085
+      "change_1d": 0
     },
     {
       "strike": 3623.12,
@@ -435,7 +435,7 @@
       "call_oi": 998,
       "put_oi": 674,
       "vega_exposure": 26553,
-      "change_1d": -3819
+      "change_1d": 0
     },
     {
       "strike": 3634.04,
@@ -445,7 +445,7 @@
       "call_oi": 755,
       "put_oi": 735,
       "vega_exposure": 19135,
-      "change_1d": -3866
+      "change_1d": 0
     },
     {
       "strike": 3644.95,
@@ -455,7 +455,7 @@
       "call_oi": 751,
       "put_oi": 1008,
       "vega_exposure": 28798,
-      "change_1d": -1128
+      "change_1d": 0
     },
     {
       "strike": 3655.86,
@@ -465,7 +465,7 @@
       "call_oi": 5276,
       "put_oi": 8805,
       "vega_exposure": 261730,
-      "change_1d": -33028
+      "change_1d": 0
     },
     {
       "strike": 3666.77,
@@ -475,7 +475,7 @@
       "call_oi": 2915,
       "put_oi": 1054,
       "vega_exposure": 29889,
-      "change_1d": -59563
+      "change_1d": 0
     },
     {
       "strike": 3677.69,
@@ -485,7 +485,7 @@
       "call_oi": 1140,
       "put_oi": 519,
       "vega_exposure": 23888,
-      "change_1d": -11706
+      "change_1d": 0
     },
     {
       "strike": 3688.6,
@@ -495,7 +495,7 @@
       "call_oi": 2953,
       "put_oi": 192,
       "vega_exposure": 28702,
-      "change_1d": -41092
+      "change_1d": 0
     },
     {
       "strike": 3699.51,
@@ -505,7 +505,7 @@
       "call_oi": 5486,
       "put_oi": 598,
       "vega_exposure": 56248,
-      "change_1d": -55965
+      "change_1d": 0
     },
     {
       "strike": 3710.43,
@@ -515,7 +515,7 @@
       "call_oi": 6740,
       "put_oi": 13433,
       "vega_exposure": 472690,
-      "change_1d": -20607
+      "change_1d": 0
     },
     {
       "strike": 3721.34,
@@ -525,7 +525,7 @@
       "call_oi": 1495,
       "put_oi": 600,
       "vega_exposure": 19485,
-      "change_1d": -16161
+      "change_1d": 0
     },
     {
       "strike": 3732.25,
@@ -535,7 +535,7 @@
       "call_oi": 1587,
       "put_oi": 531,
       "vega_exposure": 17295,
-      "change_1d": -12109
+      "change_1d": 0
     },
     {
       "strike": 3743.17,
@@ -545,7 +545,7 @@
       "call_oi": 2237,
       "put_oi": 534,
       "vega_exposure": 23764,
-      "change_1d": -15055
+      "change_1d": 0
     },
     {
       "strike": 3754.08,
@@ -555,7 +555,7 @@
       "call_oi": 1564,
       "put_oi": 518,
       "vega_exposure": 9716,
-      "change_1d": -7670
+      "change_1d": 0
     },
     {
       "strike": 3764.99,
@@ -565,7 +565,7 @@
       "call_oi": 5593,
       "put_oi": 5959,
       "vega_exposure": 214430,
-      "change_1d": -11525
+      "change_1d": 0
     },
     {
       "strike": 3775.9,
@@ -575,7 +575,7 @@
       "call_oi": 3199,
       "put_oi": 81,
       "vega_exposure": 6353,
-      "change_1d": -13246
+      "change_1d": 0
     },
     {
       "strike": 3786.82,
@@ -585,7 +585,7 @@
       "call_oi": 1207,
       "put_oi": 74,
       "vega_exposure": 11210,
-      "change_1d": -5370
+      "change_1d": 0
     },
     {
       "strike": 3797.73,
@@ -595,7 +595,7 @@
       "call_oi": 2155,
       "put_oi": 33,
       "vega_exposure": 7426,
-      "change_1d": -8400
+      "change_1d": 0
     },
     {
       "strike": 3808.64,
@@ -605,7 +605,7 @@
       "call_oi": 1822,
       "put_oi": 72,
       "vega_exposure": 4356,
-      "change_1d": -4165
+      "change_1d": 0
     },
     {
       "strike": 3819.56,
@@ -615,7 +615,7 @@
       "call_oi": 20644,
       "put_oi": 11802,
       "vega_exposure": 554641,
-      "change_1d": -20578
+      "change_1d": 0
     },
     {
       "strike": 3830.47,
@@ -625,7 +625,7 @@
       "call_oi": 922,
       "put_oi": 824,
       "vega_exposure": 25958,
-      "change_1d": -1380
+      "change_1d": 0
     },
     {
       "strike": 3841.38,
@@ -635,7 +635,7 @@
       "call_oi": 4070,
       "put_oi": 539,
       "vega_exposure": 43769,
-      "change_1d": -14142
+      "change_1d": 0
     },
     {
       "strike": 3852.3,
@@ -645,7 +645,7 @@
       "call_oi": 1089,
       "put_oi": 391,
       "vega_exposure": 20630,
-      "change_1d": -1512
+      "change_1d": 0
     }
   ],
   "peak_gex": {
