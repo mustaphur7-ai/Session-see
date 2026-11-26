@@ -2,10 +2,11 @@ name: Daily levels analysis
 
 on:
   schedule:
-    - cron: "30 0 * * 1-5"   # 03:30 Kenya time (EAT = UTC+3): Asian session
-    - cron: "0 9 * * 1-5"    # 12:00 Kenya time: London session
-    - cron: "33 14 * * 1-5"  # 17:33 Kenya time: New York session
+    - cron: "30 21 * * 0-4" # 00:30 Kenya time (EAT) - Asian session
+    - cron: "0 9 * * 1-5"   # 12:00 Kenya time (EAT) - London session
+    - cron: "33 14 * * 1-5" # 17:33 Kenya time (EAT) - New York session
   workflow_dispatch:
+
 
 permissions:
   contents: write
