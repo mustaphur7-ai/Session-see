@@ -1,16 +1,16 @@
 {
   "sample": false,
-  "session": "london",
-  "session_label": "London session",
-  "analyzed_at": "2026-11-26T12:11:15+03:00",
-  "analyzed_at_utc": "2026-11-26T09:11:15+00:00",
+  "session": "newyork",
+  "session_label": "New York session",
+  "analyzed_at": "2026-11-26T18:06:58+03:00",
+  "analyzed_at_utc": "2026-11-26T15:06:58+00:00",
   "spot_source": "PAXGUSDT",
   "ratio_basis": "gold at GLD close",
   "gld_ratio": 10.9114,
   "gld_spot": 327.48,
-  "xauusd_spot_at_analysis": 3568.11,
+  "xauusd_spot_at_analysis": 3571.55,
   "atm_iv": 0.3721,
-  "expected_move_1sd": 83.63,
+  "expected_move_1sd": 83.71,
   "call_wall": {
     "price": 3600.75,
     "open_interest": 6617,
@@ -25,19 +25,19 @@
   "resistances": [
     {
       "price": 3600.75,
-      "score": 94.0,
+      "score": 93.7,
       "open_interest": 6617,
       "gex": 19353769
     },
     {
       "price": 3655.3,
-      "score": 76.0,
+      "score": 76.4,
       "open_interest": 5276,
       "gex": 14814698
     },
     {
       "price": 3709.86,
-      "score": 73.8,
+      "score": 73.4,
       "open_interest": 6740,
       "gex": 9507916
     }
@@ -45,19 +45,19 @@
   "supports": [
     {
       "price": 3546.19,
-      "score": 90.7,
+      "score": 91.3,
       "open_interest": 18240,
       "gex": 71971242
     },
     {
       "price": 3491.63,
-      "score": 58.5,
+      "score": 58.8,
       "open_interest": 13008,
       "gex": 31483692
     },
     {
       "price": 3437.08,
-      "score": 42.4,
+      "score": 43.1,
       "open_interest": 10099,
       "gex": 13935544
     }
